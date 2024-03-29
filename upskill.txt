@@ -1,0 +1,4 @@
+"UTF-8" stands for Unicode Transformation Format 8-bit
+<meta charset="UTF-8">tells the web browser what language your web page is written in.
+"UTF-8" is like a universal translator for web pages. It can understand and show almost any language, from English to Arabic to Chinese. So when you put <meta charset="UTF-8"> in your web page's code, you're basically telling the browser, "Hey, this web page can speak any language you throw at it!"
+I am simply saying that it ensures that all the text on your web page shows up correctly, no matter what language it's in. So whether your page has emojis, special symbols, or words in different languages, this line helps the browser display everything properly.
